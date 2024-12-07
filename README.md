@@ -23,7 +23,7 @@
 
 
                                                             
- 2-{Inventory Management System:}                                                  
+ 3-{Inventory Management System:}                                                  
 .You can download and use this app  from the following link direct because its depend on sqlite 
 .👉👉👉👉👉👉👉👉 Download Inventory Management System (  https://www.mediafire.com/file/g5c1atwkfnk1s8i/The+Genral+Manager.zip/file   )
 .**username** for the app is **2saadmahmoud312@gmail.com**
