@@ -1,5 +1,5 @@
                                       ______________________________________________________________________________________________________________________________
-                                              1-{Bank System} "Because this project is only for training and not for any customer, I didn't focus on the design."
+                                                                                How To Use And Install My Projects
                                       ______________________________________________________________________________________________________________________________
 
 .You can download and use the Bank System from the following link:
@@ -10,20 +10,22 @@
 .Restore the database file in SQL Server.
 .Update the connection string in the BankSystem.exe file to match your SQL Server configuration.
 .Once you've completed these steps, the system will be ready to use.
-                                                                 _________________________________
-                                                           2-{Cashier system for fast food restaurants}
-                                                                 _________________________________
- 
+
+
+ 2-{Cashier system for fast food restaurants}
 .You can download and use this app  from the following link direct because its depen on sqlite 👉 (  https://www.mediafire.com/file/9x4v1sfgb4hn5ys/Restaurant_Solution_Git.zip/file   )
 .**username** for the app is **2saadmahmoud312@gmail.com**
 .**Password** is **1234**
-                                                              _________________________
-                                                          2-{Inventory Management System:}
-                                                              _________________________
 
+
+
+                                                            
+ 2-{Inventory Management System:}                                                  
 .You can download and use this app  from the following link direct because its depen on sqlite 👉 (  https://www.mediafire.com/file/g5c1atwkfnk1s8i/The+Genral+Manager.zip/file   )
 .**username** for the app is **2saadmahmoud312@gmail.com**
 .**Password** is **1234**
+
+
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 notice:
 **"I faced a challenge in designing the database structure to represent an invoice containing multiple items. I made two mistakes before finding the correct solution. Initially, 
