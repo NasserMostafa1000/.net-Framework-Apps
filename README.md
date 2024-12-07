@@ -2,6 +2,7 @@
                                                                                 How To Use And Install My Projects
                                       ______________________________________________________________________________________________________________________________
 
+ 1-{Bank system}
 .You can download and use the Bank System from the following link:
 .👉👉👉👉👉👉👉👉 Download Bank System  ( https://www.mediafire.com/file/55wm3mfsk1acw0r/BankSystem_git.zip/file )
 .The Bank System is built using a SQL Server database, and the database file is included in the ZIP folder you download.
@@ -10,10 +11,12 @@
 .Restore the database file in SQL Server.
 .Update the connection string in the BankSystem.exe file to match your SQL Server configuration.
 .Once you've completed these steps, the system will be ready to use.
+.**No Login Page**
 
 
  2-{Cashier system for fast food restaurants}
-.You can download and use this app  from the following link direct because its depen on sqlite 👉 (  https://www.mediafire.com/file/9x4v1sfgb4hn5ys/Restaurant_Solution_Git.zip/file   )
+.You can download and use this app  from the following link direct because its depend on sqlite
+.👉👉👉👉👉👉👉👉 Download Cashier System (  https://www.mediafire.com/file/9x4v1sfgb4hn5ys/Restaurant_Solution_Git.zip/file   )
 .**username** for the app is **2saadmahmoud312@gmail.com**
 .**Password** is **1234**
 
