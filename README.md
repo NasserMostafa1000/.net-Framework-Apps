@@ -14,7 +14,7 @@ You can download and use the **Bank System** from the following link:
 4. Once these steps are completed, the system will be ready to use.
 
 **Note:** There is no login page for this system.
-
+-the good feature depend on cursors to give all Clients the profit depend on certificate type with one click
 ---
 
 ### 2. Cashier System for Fast Food Restaurants
@@ -26,7 +26,7 @@ You can download and use the **Cashier System** directly from the following link
 - Use the following credentials to log in:  
   - **Username:** 2saadmahmoud312@gmail.com  
   - **Password:** 1234
-
+-the good feature is the app and the ui is so clean and easy
 ---
 
 ### 3. Inventory Management System
@@ -38,7 +38,7 @@ You can download and use the **Inventory Management System** directly from the f
 - Use the following credentials to log in:  
   - **Username:** 2saadmahmoud312@gmail.com  
   - **Password:** 1234
-
+-the good feature is the permissions which depend on binary system
 ---
 
 ## Notice:
