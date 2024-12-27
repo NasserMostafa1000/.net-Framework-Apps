@@ -25,15 +25,16 @@ You can download and use the **Cashier System** directly from the following link
 👉 [Download Cashier System](https://www.mediafire.com/file/9x4v1sfgb4hn5ys/Restaurant_Solution_Git.zip/file)
 
 **System Details:**
+- The application was built for practice and training to the ui on c#.
 - This app is built using SQLite, so no additional database setup is required.  
 - Use the following credentials to log in:  
   - **Username:** 2saadmahmoud312@gmail.com  
   - **Password:** 1234
--the good feature is the app and the ui is so clean and easy
+
 ---
 
 ### 3. Inventory Management System
--This application is solely for training and handling permissions and binary systems
+-This application is solely for training and handling permissions and binary systems.
 You can download and use the **Inventory Management System** directly from the following link:  
 👉 [Download Inventory Management System](https://www.mediafire.com/file/g5c1atwkfnk1s8i/The+Genral+Manager.zip/file)
 
