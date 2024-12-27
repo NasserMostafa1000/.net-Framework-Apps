@@ -8,6 +8,7 @@ You can download and use the **Bank System** from the following link:
 
 **Setup Instructions:**
 - The Bank System uses a **SQL Server database**, and the database file is included in the ZIP folder you download.
+- This project only for training on Advanced sql conecpts like stored procedure , crusors , functions,etc...
 1. Extract the ZIP folder.
 2. Restore the database file in SQL Server.
 3. Update the connection string in the `BankSystem.exe` file to match your SQL Server configuration.
