@@ -6,7 +6,9 @@ ________________________________________________________________________________
 You can download and use the **Bank System** from the following link:  
 👉 [Download Bank System](https://www.mediafire.com/file/55wm3mfsk1acw0r/BankSystem_git.zip/file)
 - This project only for training on Advanced sql conecpts like (stored procedure , crusors , functions,etc...).
+
 **Setup Instructions:**
+
 - The Bank System uses a **SQL Server database**, and the database file is included in the ZIP folder you download.
 
 1. Extract the ZIP folder.
