@@ -17,7 +17,7 @@ You can download and use the **Bank System** from the following link:
 4. Once these steps are completed, the system will be ready to use.
 
 **Note:** There is no login page for this system.
--the good feature depend on cursors to give all Clients the profit depend on certificate type with one click
+
 ---
 
 ### 2. Cashier System for Fast Food Restaurants
